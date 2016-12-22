@@ -1,0 +1,124 @@
+2016-12-22 16:39:53,068 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2016-12-22 16:39:53,076 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2016-12-22 16:39:53,078 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2016-12-22 16:40:26,317 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong:spring3-mvc-maven-xml-hello-world:1.0-SNAPSHOT @ D:\Nataraja\testjava\spring3_mvc_maven\pom.xml.
+2016-12-22 16:40:26,475 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:27,705 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.2.13.RELEASE/spring-webmvc-3.2.13.RELEASE.pom
+2016-12-22 16:40:27,712 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.2.13.RELEASE/spring-webmvc-3.2.13.RELEASE.pom
+2016-12-22 16:40:28,104 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:28,651 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.13.RELEASE/spring-beans-3.2.13.RELEASE.pom
+2016-12-22 16:40:28,652 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.13.RELEASE/spring-beans-3.2.13.RELEASE.pom
+2016-12-22 16:40:28,964 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:29,524 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.13.RELEASE/spring-core-3.2.13.RELEASE.pom
+2016-12-22 16:40:29,527 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.13.RELEASE/spring-core-3.2.13.RELEASE.pom
+2016-12-22 16:40:29,906 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:30,465 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.13.RELEASE/spring-context-3.2.13.RELEASE.pom
+2016-12-22 16:40:30,466 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.13.RELEASE/spring-context-3.2.13.RELEASE.pom
+2016-12-22 16:40:30,787 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:31,386 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.13.RELEASE/spring-aop-3.2.13.RELEASE.pom
+2016-12-22 16:40:31,389 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.13.RELEASE/spring-aop-3.2.13.RELEASE.pom
+2016-12-22 16:40:31,714 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:32,325 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.13.RELEASE/spring-expression-3.2.13.RELEASE.pom
+2016-12-22 16:40:32,328 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.13.RELEASE/spring-expression-3.2.13.RELEASE.pom
+2016-12-22 16:40:32,646 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:33,455 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.13.RELEASE/spring-web-3.2.13.RELEASE.pom
+2016-12-22 16:40:33,457 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.13.RELEASE/spring-web-3.2.13.RELEASE.pom
+2016-12-22 16:40:33,769 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:34,410 [Worker-3] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:36,587 [New I/O client worker #9-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.13.RELEASE/spring-expression-3.2.13.RELEASE.jar
+2016-12-22 16:40:36,789 [New I/O client worker #9-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.2.13.RELEASE/spring-expression-3.2.13.RELEASE.jar
+2016-12-22 16:40:37,571 [New I/O client worker #9-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.13.RELEASE/spring-aop-3.2.13.RELEASE.jar
+2016-12-22 16:40:37,671 [New I/O client worker #9-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.2.13.RELEASE/spring-aop-3.2.13.RELEASE.jar
+2016-12-22 16:40:38,999 [New I/O client worker #9-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.13.RELEASE/spring-beans-3.2.13.RELEASE.jar
+2016-12-22 16:40:39,293 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.2.13.RELEASE/spring-webmvc-3.2.13.RELEASE.jar
+2016-12-22 16:40:39,864 [New I/O client worker #9-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.13.RELEASE/spring-web-3.2.13.RELEASE.jar
+2016-12-22 16:40:40,048 [New I/O client worker #9-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.2.13.RELEASE/spring-beans-3.2.13.RELEASE.jar
+2016-12-22 16:40:40,597 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/3.2.13.RELEASE/spring-webmvc-3.2.13.RELEASE.jar
+2016-12-22 16:40:40,668 [New I/O client worker #9-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.13.RELEASE/spring-core-3.2.13.RELEASE.jar
+2016-12-22 16:40:41,067 [New I/O client worker #9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.13.RELEASE/spring-context-3.2.13.RELEASE.jar
+2016-12-22 16:40:41,232 [New I/O client worker #9-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/3.2.13.RELEASE/spring-web-3.2.13.RELEASE.jar
+2016-12-22 16:40:41,408 [New I/O client worker #9-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.2.13.RELEASE/spring-core-3.2.13.RELEASE.jar
+2016-12-22 16:40:41,969 [New I/O client worker #9-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.13.RELEASE/spring-context-3.2.13.RELEASE.jar
+2016-12-22 16:40:42,844 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2016-12-22 16:40:44,576 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring3_mvc_maven/src/main/java
+2016-12-22 16:40:44,577 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring3_mvc_maven/src/test/java
+2016-12-22 16:40:44,903 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong:spring3-mvc-maven-xml-hello-world:1.0-SNAPSHOT @ D:\Nataraja\testjava\spring3_mvc_maven\pom.xml.
+2016-12-22 16:40:47,225 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 21 sec
+2016-12-22 16:40:47,326 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-22 16:40:47,326 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-12-22 16:40:48,073 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong:spring3-mvc-maven-xml-hello-world:1.0-SNAPSHOT @ D:\Nataraja\testjava\spring3_mvc_maven\pom.xml.
+2016-12-22 16:40:49,300 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:50,105 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-maven-plugin/9.2.11.v20150529/jetty-maven-plugin-9.2.11.v20150529.pom
+2016-12-22 16:40:50,106 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-maven-plugin/9.2.11.v20150529/jetty-maven-plugin-9.2.11.v20150529.pom
+2016-12-22 16:40:50,389 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:51,550 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-project/9.2.11.v20150529/jetty-project-9.2.11.v20150529.pom
+2016-12-22 16:40:51,582 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-project/9.2.11.v20150529/jetty-project-9.2.11.v20150529.pom
+2016-12-22 16:40:51,869 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:52,796 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-parent/23/jetty-parent-23.pom
+2016-12-22 16:40:52,810 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-parent/23/jetty-parent-23.pom
+2016-12-22 16:40:53,116 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:54,793 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-maven-plugin/9.2.11.v20150529/jetty-maven-plugin-9.2.11.v20150529.jar
+2016-12-22 16:40:54,845 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-maven-plugin/9.2.11.v20150529/jetty-maven-plugin-9.2.11.v20150529.jar
+2016-12-22 16:40:55,273 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:56,173 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-eclipse-plugin/2.9/maven-eclipse-plugin-2.9.pom
+2016-12-22 16:40:56,188 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-eclipse-plugin/2.9/maven-eclipse-plugin-2.9.pom
+2016-12-22 16:40:56,573 [Worker-5] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2016-12-22 16:40:59,194 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-eclipse-plugin/2.9/maven-eclipse-plugin-2.9.jar
+2016-12-22 16:40:59,365 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-eclipse-plugin/2.9/maven-eclipse-plugin-2.9.jar
+2016-12-22 16:41:00,734 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:41:00,735 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\main\resources
+2016-12-22 16:41:00,737 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:41:00,738 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\test\resources
+2016-12-22 16:41:01,343 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong:spring3-mvc-maven-xml-hello-world:1.0-SNAPSHOT @ D:\Nataraja\testjava\spring3_mvc_maven\pom.xml.
+2016-12-22 16:41:04,974 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:41:05,008 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\main\resources
+2016-12-22 16:41:05,009 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:41:05,010 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\test\resources
+2016-12-22 16:41:11,521 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:41:11,548 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\main\resources
+2016-12-22 16:41:11,549 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:41:11,550 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\test\resources
+2016-12-22 16:41:37,678 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Nataraja\testjava\spring3_mvc_maven
+2016-12-22 16:41:37,678 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-12-22 16:41:39,989 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:41:40,005 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\main\resources
+2016-12-22 16:41:40,005 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:41:40,005 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\test\resources
+2016-12-22 16:41:43,062 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Nataraja\testjava\spring3_mvc_maven
+2016-12-22 16:41:43,062 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-12-22 16:41:46,513 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:41:46,544 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\main\resources
+2016-12-22 16:41:46,544 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:41:46,544 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\test\resources
+2016-12-22 16:42:42,050 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:42:42,050 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\main\resources
+2016-12-22 16:42:42,050 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:42:42,066 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\test\resources
+2016-12-22 16:42:50,178 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Nataraja\testjava\spring3_mvc_maven
+2016-12-22 16:42:50,178 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-12-22 16:42:52,442 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:42:52,442 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\main\resources
+2016-12-22 16:42:52,442 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:42:52,442 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\test\resources
+2016-12-22 16:42:57,060 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Nataraja\testjava\spring3_mvc_maven
+2016-12-22 16:42:57,060 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-12-22 16:43:04,882 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:43:04,960 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\main\resources
+2016-12-22 16:43:04,960 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:43:04,960 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\test\resources
+2016-12-22 16:43:15,724 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Nataraja\testjava\spring3_mvc_maven
+2016-12-22 16:43:15,724 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2016-12-22 16:43:17,692 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:43:17,707 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\main\resources
+2016-12-22 16:43:17,707 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:43:17,707 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\test\resources
+2016-12-22 16:43:21,904 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Nataraja\testjava\spring3_mvc_maven
+2016-12-22 16:43:21,904 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-12-22 16:43:26,104 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:43:26,120 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\main\resources
+2016-12-22 16:43:26,120 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-12-22 16:43:26,120 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Nataraja\testjava\spring3_mvc_maven\src\test\resources
+2016-12-22 16:56:38,828 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Nataraja\testjava\spring3_mvc_maven
+2016-12-22 16:56:38,828 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat:run
+2016-12-22 16:57:11,110 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\Nataraja\testjava\spring3_mvc_maven
+2016-12-22 16:57:11,110 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B tomcat:run

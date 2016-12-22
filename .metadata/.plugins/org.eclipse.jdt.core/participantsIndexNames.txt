@@ -1,0 +1,5 @@
+INDEX VERSION 1.126
+D:\Nataraja\testjava\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2251476484.index
+\spring3_mvc_maven\src\main\java
+D:\Nataraja\testjava\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4195351243.index
+\spring3_mvc_maven\src\main\java
